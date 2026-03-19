@@ -1,4 +1,5 @@
-## Hi there 👋
+## Heyy, Komal Fegade 🌻
+Pursing B.Tech in Artificial Intelligence and Data Science✨
 
 <!--
 **komalfegade3110/komalfegade3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
