@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A8B8&size=25&center=true&vCenter=true&width=500&lines=Heyy+I'm+Komal+Fegade+🌻;Frontend+%2B+Backend+Developer;AI+%26+Data+Science+Student;Welcome+to+my+GitHub!✨" />
 </p>
-
+ 
 ---
 
 # 💫 About Me:
@@ -14,7 +14,7 @@
 
 ## 🌐 Connect With Me:
 <p align="center">
-  <a href="https://www.linkedin.com/in/komal-fegade">
+  a href="https://www.linkedin.com/in/komal-fegade">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
