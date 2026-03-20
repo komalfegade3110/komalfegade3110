@@ -40,7 +40,7 @@
 
 ## 🎨 Design & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=canva" />
+  <img src="https://skillicons.dev/icons?i=canva"/>
 </p>
 
 ---
@@ -79,8 +79,7 @@ A prototype voting web application built to demonstrate modern UI and user inter
 
 ---
 
-## 💖 Fun Touch
-<p align="center">
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
   <b>Thanks for visiting my profile!</b>
 </p>
