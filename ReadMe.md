@@ -1,18 +1,86 @@
-#  💫 About Me:
-Heyy, I'm Komal Fegade🌻<br>Frontend developer +  Backed developer<br>Education ✨:<br>B. Tech (Artificial Intelligence & Data Science) <br> <br><br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/komal-fegade) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=komalfegade3110&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=komalfegade3110&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=komalfegade3110&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+#  <!-- 🌸 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A8B8&size=25&center=true&vCenter=true&width=500&lines=Heyy+I'm+Komal+Fegade+🌻;Frontend+%2B+Backend+Developer;AI+%26+Data+Science+Student;Welcome+to+my+GitHub!✨" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=komalfegade3110&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me:
+✨ Heyy, I'm **Komal Fegade** 🌻  
+💻 Frontend + Backend Developer  
+🎓 B.Tech in **Artificial Intelligence & Data Science**  
+
+---
+
+## 🌐 Connect With Me:
+<p align="center">
+  <a href="https://www.linkedin.com/in/komal-fegade">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+# 💻 Tech Stack:
+
+## 🧠 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,js,html,css" />
+</p>
+
+---
+
+## 🤖 Machine Learning & Data
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 🎨 Design & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=canva" />
+</p>
+
+---
+
+# 🚀 Projects:
+
+### 🗳️ VoteSnap Web Application
+🔗 Live Demo:  
+👉 https://v0-votesnap-web-application.vercel.app/
+
+💡 Description:  
+A prototype voting web application built to demonstrate modern UI and user interaction.
+
+---
+
+# 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=komalfegade3110&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=komalfegade3110&theme=github_dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalfegade3110&theme=github_dark&hide_border=false&layout=compact" />
+</p>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=komalfegade3110&icon=4&color=12" />
+</p>
+
+---
+
+## 💖 Fun Touch
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <b>Thanks for visiting my profile!</b>
+</p>
