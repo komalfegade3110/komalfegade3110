@@ -38,10 +38,7 @@
 
 ---
 
-## 🎨 Design & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=canva"/>
-</p>
+
 
 ---
 
@@ -72,10 +69,6 @@ A prototype voting web application built to demonstrate modern UI and user inter
 
 ---
 
-## 👀 Profile Views
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=komalfegade3110&icon=4&color=12" />
-</p>
 
 ---
 
