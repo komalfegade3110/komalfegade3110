@@ -13,7 +13,7 @@
 ---
 ## 🌐 Connect With Me:
 <p align="center">
-  a href="https://www.linkedin.com/in/komal-fegade-72739737b">
+  <a href="https://www.linkedin.com/in/komal-fegade-72739737b">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
