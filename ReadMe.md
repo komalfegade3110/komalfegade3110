@@ -1,4 +1,10 @@
-#  <!-- 🌸 Typing Animation -->
+#  
+<p align="left">
+  <a href="https://www.linkedin.com/in/komal-fegade-72739737b" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/20/0A66C2/linkedin.png"/> in/komal-fegade-72739737b
+  </a>
+</p>
+<!-- 🌸 Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F7A8B8&size=25&center=true&vCenter=true&width=500&lines=Heyy+I'm+Komal+Fegade+🌻;Frontend+%2B+Backend+Developer;AI+%26+Data+Science+Student;Welcome+to+my+GitHub!✨" />
 </p>
