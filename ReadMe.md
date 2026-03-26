@@ -69,7 +69,7 @@ A prototype voting web application built to demonstrate modern UI and user inter
   <img src="https://nirzak-streak-stats.vercel.app/?user=komalfegade3110&theme=github_dark&hide_border=false" />
 </p>
 
-<p align="center">
+<p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komalfegade3110&theme=github_dark&hide_border=false&layout=compact" />
 </p>
 
